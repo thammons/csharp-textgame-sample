@@ -1,0 +1,14 @@
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\obj\Debug\net7.0\textgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\obj\Debug\net7.0\textgame.AssemblyInfoInputs.cache
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\obj\Debug\net7.0\textgame.AssemblyInfo.cs
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\obj\Debug\net7.0\textgame.csproj.CoreCompileInputs.cache
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\bin\Debug\net7.0\textgame.exe
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\bin\Debug\net7.0\textgame.deps.json
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\bin\Debug\net7.0\textgame.runtimeconfig.json
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\bin\Debug\net7.0\textgame.dll
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\bin\Debug\net7.0\textgame.pdb
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\obj\Debug\net7.0\textgame.dll
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\obj\Debug\net7.0\refint\textgame.dll
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\obj\Debug\net7.0\textgame.pdb
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\obj\Debug\net7.0\textgame.genruntimeconfig.cache
+C:\Users\timot\Documents\TJsDevFolder\csharp-textgame-sample\textgame\obj\Debug\net7.0\ref\textgame.dll
